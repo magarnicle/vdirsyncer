@@ -23,6 +23,7 @@ requirements = [
     "atomicwrites>=0.1.7",
     "aiohttp>=3.8.0,<4.0.0",
     "aiostream>=0.4.3,<0.5.0",
+    "aiohttp-oauthlib",
 ]
 
 
